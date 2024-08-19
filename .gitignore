@@ -1,3 +1,7 @@
+# Move files
+contracts/blob_store/build/
+examples/move/walrus_dep/build/
+
 # Logs
 logs
 *.log
